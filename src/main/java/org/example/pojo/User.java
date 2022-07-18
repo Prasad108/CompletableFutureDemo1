@@ -1,4 +1,4 @@
-package reactive.pojo;
+package org.example.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
